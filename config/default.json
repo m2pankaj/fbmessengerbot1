@@ -1,0 +1,6 @@
+{
+    "appSecret": "ce724d6da505259b4c6a254705a3b277",
+    "pageAccessToken": "EAAX7OlFcOUsBADT4Eh3xGFzoCBvvFMsppXYPceOGiWqJie66Mk7QZB5AMZBLpdyEQxfA3gcRxfsiKkH6MxYUFlQMOFUaQ4hHKzi7sjYX8OklBllgyNV03G22uW8sJ1IlNcKZBouvQTSZCeZBNxLZBvhL0XMYz271ukLDPquEvvKsg0Xv20lv3P",
+    "validationToken": "1",
+    "serverURL": "https://testfbtemp2.azurewebsites.net/api/testDBTemp2Func"
+}
